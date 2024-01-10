@@ -3188,7 +3188,7 @@ button.list-group-item:hover {
 }
 
 .theme-btn, .theme-btn-s3, .theme-btn-s4 {
-    background-color: #ff8cbc;
+    background-color: rgb(195, 112, 255);
     color: #fff;
     padding: 13px 50px 13px 25px;
     font-weight: 500;
@@ -3252,7 +3252,7 @@ button.list-group-item:hover {
 
 .website_info {
 	padding: 25px 0;
-	background: #ffdfec;
+	background: rgba(195, 112, 255, 0.1);
 }
 
 .website_info_container {
