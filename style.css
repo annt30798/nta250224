@@ -907,7 +907,7 @@ ul.polaroids li h4{
 }
 
 .event-item .well a {
-	color: rgba(195, 112, 255, 0.705);
+	color: rgb(195, 112, 255);
 	font-size: 16px;
 	padding: 8px 20px;
     border: 1px solid;
@@ -931,7 +931,7 @@ ul.polaroids li h4{
 #event .title{
     font-size: 26px;
     margin-bottom: 20px;
-    color: #rgba(195, 112, 255, 0.705);
+    color: #rgb(195, 112, 255);
 }
 /* Map */
 
@@ -3181,10 +3181,10 @@ button.list-group-item:hover {
     font-family: inherit!important;
     padding: 8px 20px;
     margin: 0;
-    color: #fd408d;
+    color: rgb(195, 112, 255);
     font-weight: 200;
     background-color: transparent;
-        border: 1px solid #fd408d;
+        border: 1px solid rgb(195, 112, 255);
 }
 
 .theme-btn, .theme-btn-s3, .theme-btn-s4 {
