@@ -34,7 +34,7 @@ Last change: 08 june 2018
 @import url('https://fonts.googleapis.com/css2?family=Itim&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /*youtube*/
-.youtube{position:relative;
+.youtube{position:sticky;
 padding-bottom: 56.25%;
 padding-top: 30px;
 height: 0;
@@ -43,9 +43,9 @@ overflow: hidden;}
 .youtube iframe, .youtube object, .youtube embed{
     position: absolute;
     top:0;
-    left: 0;
-    width: 90%;
-    height: 90%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
 } 
 
 html {
