@@ -33,6 +33,21 @@ Last change: 08 june 2018
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Itim&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+/*youtube*/
+.youtube{position:relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;}
+
+.youtube iframe, .youtube object, .youtube embed{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+} 
+
 html {
     width: 100%;
     height: 100%;
