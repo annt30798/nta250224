@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  nta250224:
+    image: nta250224
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 40114:3000
