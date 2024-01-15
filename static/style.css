@@ -2194,7 +2194,7 @@ blockquote:before {
     text-shadow: 0px 1px 9px rgba(102, 98, 98, 0.36);
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/static/images/bg_name_c-style.png); 
+    background-image: url(./images/bg_name_c-style.png); 
     background-size: contain;
     width: 420px;
     height: 70px;
